@@ -1,4 +1,4 @@
-[COMO FUNCIONA]: Ela pega o ponto X (sua localização) ao ponto Y (seu alvo) e te da a distância exata em metros que você precisa colocar no Morteiro e acertar seu algo em WARDOGS;
+[COMO FUNCIONA]: Ela pega o ponto X (sua localização) ao ponto Y (seu alvo) e te da a distância exata em metros que você precisa colocar no Morteiro e acertar seu alvo em WARDOGS;
 
 [TUTORIAL]:
 
